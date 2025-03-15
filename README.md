@@ -7,3 +7,4 @@ The hypotenuse is calculated using the Pythagorean theorem:
 
 
 But the code are not working ! ! ! 
+The ouput does not pop up ! ! !
