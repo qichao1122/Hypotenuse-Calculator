@@ -4,3 +4,6 @@ The application uses a graphical user interface (GUI) to input values and displa
 The hypotenuse is calculated using the Pythagorean theorem: 
 
                                                   c = \sqrt{a^2 + b^2}
+
+
+But the code are not working ! ! ! 
